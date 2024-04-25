@@ -1,0 +1,14 @@
+C:\Users\GL75\OneDrive\Máy tính\R2E\bin\Debug\net8.0\R2E.exe
+C:\Users\GL75\OneDrive\Máy tính\R2E\bin\Debug\net8.0\R2E.deps.json
+C:\Users\GL75\OneDrive\Máy tính\R2E\bin\Debug\net8.0\R2E.runtimeconfig.json
+C:\Users\GL75\OneDrive\Máy tính\R2E\bin\Debug\net8.0\R2E.dll
+C:\Users\GL75\OneDrive\Máy tính\R2E\bin\Debug\net8.0\R2E.pdb
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.AssemblyInfoInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.AssemblyInfo.cs
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.csproj.CoreCompileInputs.cache
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.dll
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\refint\R2E.dll
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.pdb
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.genruntimeconfig.cache
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\ref\R2E.dll
