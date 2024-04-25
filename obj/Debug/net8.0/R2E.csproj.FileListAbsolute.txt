@@ -12,3 +12,4 @@ C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\refint\R2E.dll
 C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.pdb
 C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.genruntimeconfig.cache
 C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\ref\R2E.dll
+C:\Users\GL75\OneDrive\Máy tính\R2E\obj\Debug\net8.0\R2E.sourcelink.json
