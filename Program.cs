@@ -122,12 +122,12 @@ class Assignment{
         int i = 1;
         foreach (var mem in list){
             //Em cách ra chỉ để format lúc chạy trông đẹp hơn thui ạ T.T
-            Console.WriteLine($"  {i}. First Name: {mem.FirstName} | Last Name: {mem.LastName} | Gender: {mem.Gender} | DoB: {mem.DoB.ToString("dd/MM/yyyy")} | Age: {mem.Age} | Phone Number: {mem.PhoneNo} | Birthplace: {mem.BirthPlace} | Graduated: {mem.IsGraduated} ");
+            Console.WriteLine($" {i}. First Name: {mem.FirstName} | Last Name: {mem.LastName} | Gender: {mem.Gender} | DoB: {mem.DoB.ToString("dd/MM/yyyy")} | Age: {mem.Age} | Phone Number: {mem.PhoneNo} | Birthplace: {mem.BirthPlace} | Graduated: {mem.IsGraduated} ");
             i++;
         }
     }
     public static void PrintMember(Member mem){
             //Đây cũng thế anh nhá ^^
-            Console.WriteLine($"     First Name: {mem.FirstName} | Last Name: {mem.LastName} | Gender: {mem.Gender} | DoB: {mem.DoB.ToString("dd/MM/yyyy")} | Age: {mem.Age} | Phone Number: {mem.PhoneNo} | Birthplace: {mem.BirthPlace} | Graduated: {mem.IsGraduated} ");
+            Console.WriteLine($"    First Name: {mem.FirstName} | Last Name: {mem.LastName} | Gender: {mem.Gender} | DoB: {mem.DoB.ToString("dd/MM/yyyy")} | Age: {mem.Age} | Phone Number: {mem.PhoneNo} | Birthplace: {mem.BirthPlace} | Graduated: {mem.IsGraduated} ");
     }
 }
