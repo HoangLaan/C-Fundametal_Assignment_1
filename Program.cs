@@ -20,7 +20,7 @@
     public Member(){
     }
 }
-class Ex1{
+class Assignment{
     static void Main(string[] args)
     {
         Member mem1 = new Member("Lan", "Hoang", "Male", new DateTime(2001, 01, 17), "Hanoi", "0398903001", true);
